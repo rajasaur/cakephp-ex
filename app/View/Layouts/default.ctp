@@ -311,7 +311,7 @@ oc deploy cakephp-mysql-example --latest
                   </ul>
 
                 <h2>Request information</h2>
-                <p>Page view count:
+                <p>Page view count (UPDATED for Test):
                <?php
                     App::uses('ConnectionManager', 'Model');
 
